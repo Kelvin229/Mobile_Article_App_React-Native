@@ -12,6 +12,17 @@ The app currently allows users to create, edit, and delete notes. However, I'm c
 ## Technology Stack
 The Mobile Article App is built using React Native for the user interface, Expo for package management and running the application, Django for the web API, and SQLite for database management.
 
+## Resources
+1) https://reactnative.dev/docs/getting-started
+
+2) https://callstack.github.io/react-native-paper/docs/guides/getting-started
+
+3) https://reactnavigation.org/docs/getting-started
+
+4) https://docs.djangoproject.com/en/4.1/topics/install/
+ 
+5) https://www.django-rest-framework.org/#installation
+
 ## Screenshots and Demos
 Check out some screenshots and a demo of the app in action:
 <div style="display: inline-block;">
