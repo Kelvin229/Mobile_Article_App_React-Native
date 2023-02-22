@@ -1,24 +1,19 @@
 # Mobile_Article_App
 
-## Important
+## Important Backend Web API
 1) To View the Backend Web API, please go to this link => (https://github.com/Kelvin229/Mobile_Article_WebAPI_Django)
 
 ## Description
-This is a Note Taking / Article Positing mobile application for documenting Personal Information or any other information. Users have also been enabled to easily take and manage notes on their mobile device. 
+Mobile Article App is a note-taking and article posting mobile application that allows users to document personal information or any other information. With this app, users can easily take and manage notes on their mobile device.
 
 ## Features of the app
-At the moment, their are more imporvements that need to be made such as Authentication and Authorization, More features such as saving videos and a chatting system between users, Search and Filteration for notes, and so much more.
-
-However, the current features are:
-1) Users can Create, Edit and Delete notes
+The app currently allows users to create, edit, and delete notes. However, I'm constantly improving and adding new features, such as authentication and authorization, video saving, a chatting system between users, and search and filtration for notes.
 
 ## Technology Stack
-1) React Native for building the user interface
-2) Expo for package management and running the application
-3) Django for building the web API
-4) SQlite for Database manaegent
+The Mobile Article App is built using React Native for the user interface, Expo for package management and running the application, Django for the web API, and SQLite for database management.
 
 ## Screenshots and Demos
+Check out some screenshots and a demo of the app in action:
 <div style="display: inline-block;">
   <img src="./images/image1.jpg" alt="Alt Text" width="160" height="300">
   <img src="./images/image2.jpg" alt="Alt Text" width="160" height="300">
@@ -55,4 +50,4 @@ However, the current features are:
 </div>
 
 ## Lets Connect
-### Linkeldln: https://www.linkedin.com/in/kelvin-odi/
+### Connect with me on LinkedIn to stay up-to-date on the latest developments and new features: https://www.linkedin.com/in/kelvin-odi/
